@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {font-family: arial, sans-serif;
+  border-collapse: collapse;width: 100%;}
+td, th { border: 1px solid #dddddd; text-align: left;padding: 8px;}
+tr:nth-child(even) { background-color: #dddddd;}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Movies</th>
+    <th>Year</th>
+    <th>Earnings</th>
+  </tr>
+  <tr>
+    <td>Avatar</td>
+    <td>2009</td>
+    <td>2,847,246,203</td>
+  </tr>
+  <tr>
+    <td>Avengers</td>
+    <td>2019</td>
+    <td>2,797,501,328</td>
+  </tr>
+  <tr>
+    <td>Titanic</td>
+    <td>1997</td>
+    <td>2,201,647,264</td>
+  </tr>
+  <tr>
+    <td>Star wars</td>
+    <td>2015</td>
+    <td>2,069,521,700</td>
+  </tr>
+  <tr>
+    <td>Lion king</td>
+    <td>2019</td>
+    <td>1,670,727,580</td>
+  </tr>
+  <tr>
+    <td>Jurassic world</td>
+    <td>2015</td>
+    <td>1,670,516,444</td>
+  </tr>
+  <tr>
+    <td>Black panther</td>
+    <td>2018</td>
+    <td>1,347,597,973</td>
+    
+</table>
+
+</body>
+</html>
